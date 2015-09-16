@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛吉祥德讚
+#+DATE: 2015-08-30 21:01:31.728650
+#+PROPERTY: JUAN 0
