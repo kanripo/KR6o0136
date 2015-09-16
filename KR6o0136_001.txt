@@ -1,24 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:31.480192
+#+DATE: 2015-08-30 21:01:33.027238
 #+TITLE: 佛吉祥德讚
 #+PROPERTY: CBETA_ID T32n1681
 #+PROPERTY: ID KR6o0136
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1681
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6o0136_T_000-0762a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0136_T_001-0762a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.1681¶
-
- 佛吉祥德讚卷上¶
+No. 1681¶
+佛吉祥德讚卷上¶
 ¶
 尊者寂友造¶
 西天譯經三藏朝奉大夫¶
-試光祿卿傳法大師賜紫¶
-臣施護奉　詔譯¶
+試光祿卿傳法大師賜紫臣施護奉　詔譯¶
 
 #+BEGIN_VERSE
 「　我今歸命佛世尊
