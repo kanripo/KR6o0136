@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:32.246218
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:59
 #+TITLE: 佛吉祥德讚
 #+PROPERTY: CBETA_ID T32n1681
 #+PROPERTY: ID KR6o0136
@@ -393,8 +393,8 @@ No. 1681¶
 　自身廣大諸色相
 　畢竟圓滿可稱揚¶
 　三界最勝應供尊
-　我今歸命不思議
+　我今歸命不思議」
 #+END_VERSE
-」¶
+¶
 佛吉祥德讚卷上¶
 
