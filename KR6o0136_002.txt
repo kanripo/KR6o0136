@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:31.503742
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:59
 #+TITLE: 佛吉祥德讚
 #+PROPERTY: CBETA_ID T32n1681
 #+PROPERTY: ID KR6o0136
@@ -402,9 +402,9 @@
 　如來常以無著說
 　無增無減善稱揚¶
 　大悲不斷相續生
-　稽首善見處非處
+　稽首善見處非處」
 #+END_VERSE
-」¶
+¶
 佛吉祥德讚卷中
 <pb:KR6o0136_T_002-0766c>¶
 
