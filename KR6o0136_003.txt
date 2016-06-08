@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:31.529425
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:59
 #+TITLE: 佛吉祥德讚
 #+PROPERTY: CBETA_ID T32n1681
 #+PROPERTY: ID KR6o0136
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1681
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0136_T_000-0762a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0136_T_003-0766c> 
 #+PROPERTY: JUAN 3
 ¶
-
- 佛吉祥德讚卷下¶
+佛吉祥德讚卷下¶
 ¶
 尊者寂友造¶
 
@@ -459,7 +458,7 @@
 　寂止性潤澤
 　一切智妙月¶
 　佛德廣無邊
-　是故我稱讚
+　是故我稱讚」
 #+END_VERSE
-」¶
+¶
 佛吉祥德讚卷下

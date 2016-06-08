@@ -1,24 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:31.503742
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:59
 #+TITLE: 佛吉祥德讚
 #+PROPERTY: CBETA_ID T32n1681
 #+PROPERTY: ID KR6o0136
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1681
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0136_T_000-0762a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0136_T_002-0764b> ¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 佛吉祥德讚卷中¶
+佛吉祥德讚卷中¶
 ¶
 尊者寂友造¶
 西天譯經三藏朝奉大夫¶
-試光祿卿傳法大師賜紫¶
-臣施護奉　詔譯¶
+試光祿卿傳法大師賜紫臣施護奉　詔譯¶
 
 #+BEGIN_VERSE
 「　歸命如來勝妙相
@@ -402,9 +400,9 @@
 　如來常以無著說
 　無增無減善稱揚¶
 　大悲不斷相續生
-　稽首善見處非處
+　稽首善見處非處」
 #+END_VERSE
-」¶
+¶
 佛吉祥德讚卷中
 <pb:KR6o0136_T_002-0766c>¶
 
